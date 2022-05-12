@@ -1,0 +1,2 @@
+# PicBed
+for typora
